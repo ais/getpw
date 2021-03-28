@@ -6,13 +6,9 @@ Generate (repeatable) passwords given a site and a master passphrase.
 
 ## Requirements
 
-- Click
-- Pyperclip
-  - xclip (_*nix only_)
+For *nix distributions, you will need `xclip`.
 
-Optional:
-
-- Base58 (for b58encode support)
+All other requirements are installed automatically.
 
 ## Installation
 
