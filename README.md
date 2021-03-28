@@ -8,7 +8,7 @@ Generate (repeatable) passwords given a site and a master passphrase.
 
 - Click
 - Pyperclip
-    - xclip (_*nix only_)
+  - xclip (_*nix only_)
 
 Optional:
 
@@ -16,9 +16,7 @@ Optional:
 
 ## Installation
 
-```
-pip install "git+https://github.com/aislingdailey/getpw"
-```
+    pip install "git+https://github.com/aislingdailey/getpw"
 
 Append `#egg=getpw[Base58]` to enable Base 58 encoding.
 
