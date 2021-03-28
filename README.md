@@ -31,3 +31,13 @@ The following encodings are supported:
 By default: all passwords are 20 characters long and compatible with the [SS64 password generator](https://ss64.com/passwords).
 
 See `getpw --help` for more info.
+
+## Contributing
+
+This repository is not accepting contributions.
+
+Please [open an issue](https://github.com/ais/getpw/issues) or [start a discussion](https://github.com/ais/getpw/discussions).
+
+## License
+
+[MIT](LICENSE)
