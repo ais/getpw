@@ -12,7 +12,7 @@ All other requirements are installed automatically.
 
 ## Installation
 
-    pip install "git+https://github.com/aislingdailey/getpw"
+    pip install "git+https://github.com/ais/getpw"
 
 Append `#egg=getpw[Base58]` to enable Base 58 encoding.
 
